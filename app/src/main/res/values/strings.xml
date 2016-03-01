@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exchange Rates</string>
+    <string name="add_widget">Add widget</string>
+    <string name="example_response">[{"ccy":"EUR","base_ccy":"UAH","buy":"29.50082","sale":"29.77606"},{"ccy":"RUR","base_ccy":"UAH","buy":"0.35698","sale":"0.36029"},{"ccy":"USD","base_ccy":"UAH","buy":"27.09480","sale":"27.05439"},{"ccy":"BTC","base_ccy":"USD","buy":"412.8197","sale":"456.2744"}]</string>
+</resources>
